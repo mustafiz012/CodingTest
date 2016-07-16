@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CodingTest</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="title_activity_playing">PlayingActivity</string>
+
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+        <item>Image 7</item>
+    </string-array>
+    <string-array name="imageUrls">
+        <item>http://www.cutmirchi.com/upimages/1357620031_j.jpg</item>
+        <item>https://thiscornerofthewoods.files.wordpress.com/2013/01/dsc_0104.jpg</item>
+        <item>http://www.cutmirchi.com/upimages/1357620031_j.jpg</item>
+        <item>http://www.cutmirchi.com/upimages/1357620031_j.jpg</item>
+        <item>http://www.cutmirchi.com/upimages/1357620031_j.jpg</item>
+        <item>http://www.cutmirchi.com/upimages/1357620031_j.jpg</item>
+    </string-array>
+</resources>
